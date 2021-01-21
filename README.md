@@ -6,19 +6,11 @@
 
 ---
 
-## Programming experience
+## Technical Skills
 
-From class projects and my own side projects, I have:
-
-- 2 years of web technologies (will explain below)
-- 1 year of Python
-- 2 years of C/C++
-
-## Technical skills
-
-I've built several web applications, and with every project, I always try to learn some new things.
+Over the past 2 years, I've built several web applications, and with every project, I always try to learn some new things.
 <br/>
-Technologies I've learned:
+Technologies that I'm proficient at:
 
 - Javascript
 - React.js
@@ -31,6 +23,10 @@ Technologies I've learned:
 - Git
 - Linux CLI
 - HTML, CSS, SASS
+
+## Other Programming Experience
+
+Aside from the web technologies above, I'm also familiar with Python and C/C++.
 
 #### I'm always eager to expand the depth and breadth of my skills
 

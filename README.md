@@ -20,15 +20,17 @@ I've built several web applications, and with every project, I always try to lea
 <br/>
 Technologies I've learned:
 
-- HTML, CSS, SASS, Javascript
-- React.js, Handlebars.js
-- Node.js, Express
-- JWT for authentication
+- Javascript
+- React.js
+- Node.js
+- Express
 - MySQL
+- AWS services such as EC2, S3, ELB, RDS, Amplify
+- JWT for authentication
 - Heroku
-- AWS services like EC2, S3, ELB
 - Git
 - Linux CLI
+- HTML, CSS, SASS
 
 #### I'm always eager to expand the depth and breadth of my skills
 

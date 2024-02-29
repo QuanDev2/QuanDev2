@@ -1,44 +1,40 @@
 # Hi there, I'm Quan, and I build web applications 👋
 
-## I'm a senior CS student at Oregon State University, focus on Web Development
+## I'm a full stack developer at Kunz Leigh and Associates. We build custom software for many departments of the State of Michigan.
 
-### I'm graduading in June 2021 and currently open for hire
+### My TPL (Third Party Liability) team develops and maintains the TPL software that helps the State of Michigan manage 3 million Medicaid members, recover hundreds of millions of dollars annually from insurance companies and process over 100k Medicaid claims a month.
 
 ---
 
 ## Technical Skills
 
-Over the past 2 years, I've built several web applications, and with every project, I always try to learn some new things.
-<br/>
-Technologies that I'm proficient at:
+I'm working with
+- Java, Springboot, JSP
+- Angular
+- Oracle SQL, Teradata
+- Groovy scripting, shell script
 
-- Javascript
+## Other Programming Experience
+
+In my previous projects, I've worked with
 - React.js
 - Node.js
 - Express
 - MySQL
 - AWS services such as EC2, S3, ELB, RDS, Amplify
 - JWT for authentication
-- Heroku
-- Git
-- Linux CLI
+- Shell script
 - HTML, CSS, SASS
-
-## Other Programming Experience
-
-Aside from the web technologies above, I'm also familiar with Python and C/C++.
 
 #### I'm always eager to expand the depth and breadth of my skills
 
 ## Connect with me
 
-[<img align="left" alt="qnguyen.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Quan Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Quan Nguyen | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 <br/>
 
-[website]: https://www.qnguyen.dev
 [linkedin]: https://www.linkedin.com/in/quandev2/
 [email]: mailto:qnguyen.dev2@gmail.com
 

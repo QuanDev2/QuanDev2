@@ -24,6 +24,7 @@ In my previous projects, I've worked with
 - AWS services such as EC2, S3, ELB, RDS, Amplify
 - JWT for authentication
 - Shell script
+- Github Actions for CI/CD
 - HTML, CSS, SASS
 
 #### I'm always eager to expand the depth and breadth of my skills

@@ -13,14 +13,14 @@ I'm working with
 - Angular
 - Oracle SQL, Teradata
 - Groovy scripting, shell script
+- Jenkins, Jira
 
 ## Other Programming Experience
 
 In my previous projects, I've worked with
-- React.js
-- Node.js
-- Express
-- MySQL
+- React.js, Redux
+- Node.js, Express
+- MySQL, MongoDB
 - AWS services such as EC2, S3, ELB, RDS, Amplify
 - JWT for authentication
 - Shell script
